@@ -14,6 +14,7 @@ Button2=False
 
 st.title('Queridometro')
 
+
 T_br = pytz.timezone('America/Sao_Paulo')
 today = datetime.now(T_br)
 
